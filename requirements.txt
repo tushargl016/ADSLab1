@@ -2,4 +2,5 @@ pandas
 numpy
 sklearn
 quandl
+pandas_datareader
 zipfile
