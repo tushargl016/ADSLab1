@@ -4,3 +4,5 @@ sklearn
 quandl
 pandas_datareader
 zipfile
+matplotlib
+cvxopt
