@@ -1,0 +1,67 @@
+"BETA","SBeta","Beta",0,288.674,7,-777,-777
+"E/P","SEarn/Price","Earnings/Price",0,10.0228,8,-777,-777
+"B/P","SBook/Price","Book/Price",0,9.90204,9,-777,-777
+"YIELD","SDividend Yield","Dividend Yield",0,8.18746,10,-777,-777
+"TRADE","STrading Activity","Trading Activity",0,48.242,11,-777,-777
+"RST","SRelStrength","Relative Strength",0,142.207,12,-777,-777
+"CAP","SLogMarketCap","Log of Market Cap",0,15.0273,13,-777,-777
+"EVAR","SEarnings Variabili","Earnings Variability",0,6.89567,14,-777,-777
+"EGR","SEPS Growth Rate","EPS Growth Rate",0,8.70163,15,-777,-777
+"R/P","SRev/Price","Revenue/Price",0,17.507,16,-777,-777
+"DEBT/EQ","SDebt/Equity","Debt/Equity",0,6.32963,17,-777,-777
+"PR VOL","SPrice Volatility","Price Volatility",0,52.4084,18,-777,-777
+"MBANK","SMajorBank","Major Banks",0,218.114,19,-777,-777
+"RBANK","SRegBank","Regional Banks",0,61.1959,20,-777,-777
+"S&L","SSavings&Loan","Savings & Loans",0,76.1769,21,-777,-777
+"FINSRV","SFinServices","Financial Services",0,121.75,22,-777,-777
+"FINMSC","SFinMisc","Financial Misc.",0,36.1247,23,-777,-777
+"LIFE","SInsLife","Insurance Life",0,134.6,24,-777,-777
+"INSPC","SInsOther","Insurance Other",0,109.272,25,-777,-777
+"CONST","SBuildConst","Building Construction",0,180.179,26,-777,-777
+"BMAT","SBuildMat","Building Materials",0,88.8147,27,-777,-777
+"FOREST","SForestProd","Forest Products",0,224.248,28,-777,-777
+"AIR","SAirlines","Airlines",0,367.138,29,-777,-777
+"AUTO","SAutos","Auto & Truck",0,82.8522,30,-777,-777
+"TRUCK","STrucking","Trucking",0,181.419,31,-777,-777
+"CLOTH","SApparel","Apparel & Textiles",0,117.957,32,-777,-777
+"RETSG","SRetailSoft","Retail Soft Goods",0,167.798,33,-777,-777
+"RETHG","SRetailHard","Retail Hard Goods",0,169.117,34,-777,-777
+"BROAD","SBroadcast","Broadcasting",0,136.664,35,-777,-777
+"PUB","SPublishing","Publishing",0,91.5713,36,-777,-777
+"HOTEL","SLodgingFood","Lodging & Restaurant",0,85.5639,37,-777,-777
+"CONS","SConsProd","Consumer Products",0,74.0679,38,-777,-777
+"LEIS","SLeisure","Leisure",0,58.9693,39,-777,-777
+"ETRON","SElectronics","Electronics",0,241.804,40,-777,-777
+"CPU","SComputers","Computers",0,268.958,41,-777,-777
+"SOFT","SSoftware","Computer Software",0,177.963,42,-777,-777
+"EE","SElectEquip","Electrical Equipment",0,93.5155,43,-777,-777
+"MACH","SMachinery","Machinery",0,66.8484,44,-777,-777
+"CHEMB","SChemBasic","Chemicals Basic",0,381.27,45,-777,-777
+"CHEMS","SChemSpec","Chemicals Specialty",0,69.9933,46,-777,-777
+"GOLD","SPreciousMtl","Precious Metals",0,1663.01,47,-777,-777
+"FE","SSteel","Iron & Steel",0,218.577,48,-777,-777
+"MINE","SMetalMining","Metals & Mining",0,225.059,49,-777,-777
+"PAPER","SPaper","Paper",0,140.207,50,-777,-777
+"MFG","SManufacturing","General Manufacturing",0,66.8997,51,-777,-777
+"WASTE","SEnvironmental","Environmental & Waste",0,551.974,52,-777,-777
+"TRANS","SRailShips","Railroads & Shipping",0,88.204,53,-777,-777
+"AERO","SAerospace","Aerospace",0,192.805,54,-777,-777
+"SRVB","SServicesBus","Services Business",0,68.9296,55,-777,-777
+"SRVC","SServicesCons","Services Consumer",0,148.354,56,-777,-777
+"PARTS","SAutoParts","Auto Aftermarket",0,137.109,57,-777,-777
+"TOBC","STobacco","Tobacco",0,329.833,58,-777,-777
+"SOAP","SSoapToilet","Soaps & Toiletries",0,253.411,59,-777,-777
+"DRINK","SBeverages","Beverages",0,74.6537,60,-777,-777
+"FOODB","SFoodsBasic","Foods Basic",0,148.533,61,-777,-777
+"FOODP","SFoods Packed","Foods Packaged",0,108.692,62,-777,-777
+"RETF","SRetailFood","Retail Food & Drugs",0,74.0777,63,-777,-777
+"RX","SDrugs","Drugs",0,429.817,64,-777,-777
+"MEDSUP","SMedSupplies","Medical Supplies",0,94.9244,65,-777,-777
+"HOSP","SMedServices","Medical Services",0,313.878,66,-777,-777
+"PHONE","STelecom","Telecommunications",0,164.072,67,-777,-777
+"EUTIL","SElectUtil","Electric Utilities",0,85.8818,68,-777,-777
+"GUTIL","SGasUtil","Gas & Water Utilities",0,62.5289,69,-777,-777
+"OILBIG","SOilIntegrated","Oil Integrated Majors",0,381.342,70,-777,-777
+"PUMP","SOilRefine","Oil Refining & Sales",0,166.449,71,-777,-777
+"WELL","SOil Extraction","Oil Extraction",0,912.372,72,-777,-777
+"OILSRV","SOil Services","Oil Services",0,1387.27,73,-777,-777
